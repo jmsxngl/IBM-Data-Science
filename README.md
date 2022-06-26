@@ -1,5 +1,4 @@
 # IBM-Data-Science
-Coursera IBM Data Science
+Coursera IBM Data Science : https://www.coursera.org/professional-certificates/ibm-data-science?
 
-![image](https://user-images.githubusercontent.com/94034809/174449695-52a435ee-eb6d-4f2c-b613-a3b3a10b093f.png)
-
+ file:///home/exe/Pictures/Screenshots/IBM%20Data%20Science%20X.png
